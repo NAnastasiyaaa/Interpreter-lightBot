@@ -1,0 +1,8 @@
+right
+move
+a=0;
+when(a<2)
+begin
+a=(a+1);
+move
+end

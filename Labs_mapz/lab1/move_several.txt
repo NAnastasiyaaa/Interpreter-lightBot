@@ -1,0 +1,6 @@
+a=0;
+when(a<6)
+begin
+a=(a+1);
+move
+end

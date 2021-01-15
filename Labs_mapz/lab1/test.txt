@@ -1,0 +1,16 @@
+a = 2
+b = (a + 2)
+if(a > b)
+begin
+move
+right
+end
+move
+move
+move
+when(a < (b+5))
+begin
+a = (a + 1)
+move
+end
+left

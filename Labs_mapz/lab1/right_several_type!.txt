@@ -1,0 +1,6 @@
+right
+when(a<5)
+begin
+move
+a=(a+1);
+end
